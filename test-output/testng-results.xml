@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-19T02:27:24 EET" name="Default suite" finished-at="2025-01-19T02:27:34 EET" duration-ms="10186">
+    <groups>
+    </groups>
+    <test started-at="2025-01-19T02:27:24 EET" name="Default test" finished-at="2025-01-19T02:27:34 EET" duration-ms="10186">
+      <class name="MyPackage.MyTestCases">
+        <test-method is-config="true" signature="mySetUp()[pri:0, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-19T02:27:24 EET" name="mySetUp" finished-at="2025-01-19T02:27:27 EET" duration-ms="2711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetUp -->
+        <test-method signature="AddNewCustomer()[pri:1, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-19T02:27:27 EET" name="AddNewCustomer" finished-at="2025-01-19T02:27:27 EET" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewCustomer -->
+        <test-method signature="UpdateCustomerInfo()[pri:2, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-19T02:27:27 EET" name="UpdateCustomerInfo" finished-at="2025-01-19T02:27:27 EET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCustomerInfo -->
+        <test-method signature="ReadTheUpdatedData()[pri:3, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-19T02:27:27 EET" name="ReadTheUpdatedData" finished-at="2025-01-19T02:27:34 EET" duration-ms="7423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheUpdatedData -->
+        <test-method signature="DeleteCustomer()[pri:4, instance:MyPackage.MyTestCases@1817f1eb]" started-at="2025-01-19T02:27:34 EET" name="DeleteCustomer" finished-at="2025-01-19T02:27:34 EET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomer -->
+      </class> <!-- MyPackage.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
